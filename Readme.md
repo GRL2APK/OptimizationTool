@@ -3,7 +3,7 @@
 Our proposed formal optimization framework identifies conflicting NFR operationalizations, analyses and evaluates alternative solutions, and recommends
 optimal solutions to the developer when constructing an application. Our tool corresponding to this framework takes all the NFR related information from the user, and based on the evaluated contribution and conflict functions, the tool
 evaluates the optimal choice of NFR operationalizations.
-We elaborate step by step process of using our tool with actual tool interface images.
+We also provide user manual elaborating execution steps of the tool with actual tool interface images.
 
 **2 Platform Settings**
 
