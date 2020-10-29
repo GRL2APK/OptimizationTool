@@ -1,0 +1,63 @@
+﻿1
+00:00:00,000 --> 00:00:05,010
+Run Home.java file from the OptimizationFramework project
+
+2
+00:00:05,320 --> 00:00:10,030
+User can select different NFRs from the list.
+
+3
+00:00:10,750 --> 00:00:13,040
+Click on "Proceed Button" to navigate to "Priority Section" screen
+
+4
+00:00:13,580 --> 00:00:18,020
+Select different NFRs and assign priorities
+
+5
+00:00:18,500 --> 00:00:23,970
+Click on "Confirm Button" every time to record these priorities
+
+6
+00:00:24,170 --> 00:00:30,710
+Click on "Generate Solution" to get all possible solutions
+
+7
+00:00:33,080 --> 00:00:36,090
+Different solutions are listed here.
+
+8
+00:00:37,150 --> 00:00:43,230
+Click on "Reduce Solution Space" button to navigate to next screen.
+
+9
+00:00:43,920 --> 00:00:49,890
+In this screen User can assign values for W1 and W2 and Threshold
+
+10
+00:00:50,830 --> 00:00:56,050
+Click on "Reduce Space" button to view graphical interpretation of the solution space
+
+11
+00:01:01,350 --> 00:01:03,350
+The first highlighted plot contains all possible solutions
+
+12
+00:01:03,780 --> 00:01:08,310
+Now the second highlighted plot contains reduced solution space.
+
+13
+00:01:10,160 --> 00:01:14,150
+Now individual optimized solution can be plotted seperately from this screen
+
+14
+00:01:15,520 --> 00:01:22,140
+User has to select each of the solution from drop down menu and click on "Plot" button
+
+15
+00:01:22,340 --> 00:01:29,170
+It will show the highlighted solution in the plot.
+
+16
+00:01:31,350 --> 00:01:39,080
+Thank you for your patience.
