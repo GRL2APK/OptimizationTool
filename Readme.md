@@ -29,3 +29,10 @@ Once above steps are completed successfully, we are ready to execute our tool.
 IDE and run Home.java file in "src" folder.
 2. Another way to execute our tool is by simply running OptimizationTool.jar
 from "dist" folder.
+
+**3 System Requirements**
+1. Operating System: Microsoft Windows 7, 8, 10.
+2. Java: jdk-1.7 or higher version.
+3. Eclipse: Eclipse Oxygen or higher version.
+4. Python: Python 3.5 or above
+5. SQL Server: SQL Server 2014 or higher version.
